@@ -1,0 +1,32 @@
+.add-user-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #c1c0c0;
+}
+
+.input-field {
+    padding: 10px;
+}
+
+input, select {
+    height: 30px;
+    border: 1px solid #c1c0c0;
+    border-radius: 5px;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    color: #FFF;
+    font-size: 1.2rem;
+    background-color: #810fe7;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 5px 0 5px 0;
+}
